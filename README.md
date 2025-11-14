@@ -1,4 +1,4 @@
 # dataScience2
 this is my second repository file
 <br>
-Author - Pruthviraj Pawar.
+Author - Pruthviraj Prataprao Pawar.
